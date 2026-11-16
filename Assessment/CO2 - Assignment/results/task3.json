@@ -1,0 +1,227 @@
+[
+ {
+  "b": 3,
+  "d": 6,
+  "total": 1093,
+  "pred_best_nodes": 125,
+  "pred_best_leaves": 53,
+  "leaves_total": 729,
+  "best_order": {
+   "value": 278,
+   "minimax_nodes": 1093,
+   "ab_nodes": 125,
+   "ab_leaves": 53,
+   "cutoffs": 46
+  },
+  "sorted_worst_order": {
+   "value": 278,
+   "minimax_nodes": 1093,
+   "ab_nodes": 1013,
+   "ab_leaves": 659,
+   "cutoffs": 153
+  },
+  "nested_adversarial": {
+   "value": 546,
+   "minimax_nodes": 1093,
+   "ab_nodes": 1093,
+   "ab_leaves": 729,
+   "cutoffs": 0
+  },
+  "equal_leaves": {
+   "value": 0,
+   "minimax_nodes": 1093,
+   "ab_nodes": 125,
+   "ab_leaves": 53,
+   "cutoffs": 46
+  },
+  "random_order": {
+   "value": 251.7,
+   "minimax_nodes": 1093,
+   "ab_nodes": 452.9,
+   "ab_leaves": 258.4,
+   "cutoffs": 101.9,
+   "ab_nodes_min": 324,
+   "ab_nodes_max": 627
+  }
+ },
+ {
+  "b": 4,
+  "d": 4,
+  "total": 341,
+  "pred_best_nodes": 62,
+  "pred_best_leaves": 31,
+  "leaves_total": 256,
+  "best_order": {
+   "value": 72,
+   "minimax_nodes": 341,
+   "ab_nodes": 62,
+   "ab_leaves": 31,
+   "cutoffs": 21
+  },
+  "sorted_worst_order": {
+   "value": 72,
+   "minimax_nodes": 341,
+   "ab_nodes": 333,
+   "ab_leaves": 248,
+   "cutoffs": 23
+  },
+  "nested_adversarial": {
+   "value": 204,
+   "minimax_nodes": 341,
+   "ab_nodes": 341,
+   "ab_leaves": 256,
+   "cutoffs": 0
+  },
+  "equal_leaves": {
+   "value": 0,
+   "minimax_nodes": 341,
+   "ab_nodes": 62,
+   "ab_leaves": 31,
+   "cutoffs": 21
+  },
+  "random_order": {
+   "value": 80.2,
+   "minimax_nodes": 341,
+   "ab_nodes": 176.9,
+   "ab_leaves": 117.6,
+   "cutoffs": 31.9,
+   "ab_nodes_min": 127,
+   "ab_nodes_max": 231
+  }
+ },
+ {
+  "b": 4,
+  "d": 6,
+  "total": 5461,
+  "pred_best_nodes": 268,
+  "pred_best_leaves": 127,
+  "leaves_total": 4096,
+  "best_order": {
+   "value": 1380,
+   "minimax_nodes": 5461,
+   "ab_nodes": 268,
+   "ab_leaves": 127,
+   "cutoffs": 99
+  },
+  "sorted_worst_order": {
+   "value": 1380,
+   "minimax_nodes": 5461,
+   "ab_nodes": 4840,
+   "ab_leaves": 3562,
+   "cutoffs": 689
+  },
+  "nested_adversarial": {
+   "value": 3276,
+   "minimax_nodes": 5461,
+   "ab_nodes": 5461,
+   "ab_leaves": 4096,
+   "cutoffs": 0
+  },
+  "equal_leaves": {
+   "value": 0,
+   "minimax_nodes": 5461,
+   "ab_nodes": 268,
+   "ab_leaves": 127,
+   "cutoffs": 99
+  },
+  "random_order": {
+   "value": 1183.9,
+   "minimax_nodes": 5461,
+   "ab_nodes": 1400.4,
+   "ab_leaves": 899.9,
+   "cutoffs": 313.0,
+   "ab_nodes_min": 749,
+   "ab_nodes_max": 1840
+  }
+ },
+ {
+  "b": 4,
+  "d": 8,
+  "total": 87381,
+  "pred_best_nodes": 1098,
+  "pred_best_leaves": 511,
+  "leaves_total": 65536,
+  "best_order": {
+   "value": 20852,
+   "minimax_nodes": 87381,
+   "ab_nodes": 1098,
+   "ab_leaves": 511,
+   "cutoffs": 417
+  },
+  "sorted_worst_order": {
+   "value": 20852,
+   "minimax_nodes": 87381,
+   "ab_nodes": 66721,
+   "ab_leaves": 48572,
+   "cutoffs": 12293
+  },
+  "nested_adversarial": {
+   "value": 52428,
+   "minimax_nodes": 87381,
+   "ab_nodes": 87381,
+   "ab_leaves": 65536,
+   "cutoffs": 0
+  },
+  "equal_leaves": {
+   "value": 0,
+   "minimax_nodes": 87381,
+   "ab_nodes": 1098,
+   "ab_leaves": 511,
+   "cutoffs": 417
+  },
+  "random_order": {
+   "value": 18648.4,
+   "minimax_nodes": 87381,
+   "ab_nodes": 11051.3,
+   "ab_leaves": 7020,
+   "cutoffs": 2679.4,
+   "ab_nodes_min": 7393,
+   "ab_nodes_max": 15514
+  }
+ },
+ {
+  "b": 5,
+  "d": 6,
+  "total": 19531,
+  "pred_best_nodes": 491,
+  "pred_best_leaves": 249,
+  "leaves_total": 15625,
+  "best_order": {
+   "value": 4244,
+   "minimax_nodes": 19531,
+   "ab_nodes": 491,
+   "ab_leaves": 249,
+   "cutoffs": 180
+  },
+  "sorted_worst_order": {
+   "value": 4244,
+   "minimax_nodes": 19531,
+   "ab_nodes": 16607,
+   "ab_leaves": 13045,
+   "cutoffs": 2268
+  },
+  "nested_adversarial": {
+   "value": 13020,
+   "minimax_nodes": 19531,
+   "ab_nodes": 19531,
+   "ab_leaves": 15625,
+   "cutoffs": 0
+  },
+  "equal_leaves": {
+   "value": 0,
+   "minimax_nodes": 19531,
+   "ab_nodes": 491,
+   "ab_leaves": 249,
+   "cutoffs": 180
+  },
+  "random_order": {
+   "value": 4071.6,
+   "minimax_nodes": 19531,
+   "ab_nodes": 3619.6,
+   "ab_leaves": 2512.0,
+   "cutoffs": 749.3,
+   "ab_nodes_min": 2583,
+   "ab_nodes_max": 4738
+  }
+ }
+]

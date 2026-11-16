@@ -1,0 +1,23 @@
+PREDICTIONS (written BEFORE any experiment was executed)
+
+T1  Open map (random 8% obstacles, 10% congested cells cost 4):
+    UCS expands almost the whole grid (>=70% of free cells). Greedy expands ~ path length (60-120 on 30x30) but its path cost is
+    5-25% above optimal. A* is optimal and expands clearly fewer than UCS (150-600 on 30x30).
+    Trap map (cup opening toward start): Greedy walks into the cup, fills it (~100 extra expansions) and returns a NON-optimal path;
+    A* optimal with expansions between Greedy and UCS; UCS largest.
+    Unreachable-goal map: all three exhaust the whole reachable region (equal expansions), no path.
+T2  Online DFS in a perfect maze: competitive ratio 3-6 for far targets on 21x21 grid and increasing with maze size; near targets
+    can have ratio >1 and highly variable. Unreachable target: moves = 2*(R-1) (every tree edge walked twice) for perfect mazes.
+    LRTA*: first trial ratio >5, converging to ratio 1.0 within ~10 trials.
+T3  b=4,d=6: minimax visits (4^7-1)/3 = 5461 nodes. Alpha-beta best ordering: sum_k (b^ceil(k/2)+b^floor(k/2)-1)=268 nodes, 127 leaves.
+    Worst ordering: 5461 nodes, 0 cutoffs. Random leaves: about 4^(3d/4)=512 leaves, ~1000 total nodes. Equal leaves: near best case (~268-400).
+T4  Nodes visited at depth d = (b^(d+1)-1)/(b-1); terminal-depth evaluations b^d. 6x7 Connect-4 (b=7, no win before ply 7):
+    d=1..6 -> 8, 57, 400, 2801, 19608, 137257 nodes. Time grows x7 per ply; with 1 s limit plain minimax breaks at depth 5-6 in Python.
+    Win rate vs random: >=90% for depth>=2, ~100% for depth 4.
+T5  Instance A (chain + anchor): AC-3 alone solves it, 0 search nodes. A2 (conflicting anchors): wipe-out found with 0 search.
+    K6 with 5 slots: AC-3 prunes nothing; plain BT visits 326 consistent partial assignments, MAC visits ~206 (about 1.6x fewer), wipe-outs>0.
+    Random timetables: plain BT nodes grow much faster with number of exams than MAC.
+T6  Tours = n! (depot fixed, n customers): 720, 5040, 40320, 362880, 3628800 for n=6..10; time x(n) per added customer.
+    2-opt single start reaches optimum in about 50-70% of runs (mean gap 2-5%); 10 restarts >=90%.
+T7  (Redesign of Task 6 exhaustive search = branch & bound with LS upper bound, nearest-first ordering, min-out lower bound)
+    Expect >=10x fewer partial tours at n=10, ratio growing with n, identical optimal cost. Lower bound gives additional 3-10x.

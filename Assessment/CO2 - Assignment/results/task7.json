@@ -1,0 +1,131 @@
+{
+ "ablation": [
+  {
+   "n": 8,
+   "orig": {
+    "nodes": 109600,
+    "tours": 40320,
+    "time_ms": 29.1
+   },
+   "R1_prefix_only": {
+    "nodes": 31335,
+    "tours": 325,
+    "time_ms": 5.4
+   },
+   "R1+R2+R3": {
+    "nodes": 26985,
+    "tours": 134,
+    "time_ms": 4.6
+   },
+   "R1+R2+R3+R4": {
+    "nodes": 4592,
+    "tours": 58,
+    "time_ms": 0.9
+   }
+  },
+  {
+   "n": 9,
+   "orig": {
+    "nodes": 986409,
+    "tours": 362880,
+    "time_ms": 274.7
+   },
+   "R1_prefix_only": {
+    "nodes": 157117,
+    "tours": 779,
+    "time_ms": 27.6
+   },
+   "R1+R2+R3": {
+    "nodes": 131229,
+    "tours": 283,
+    "time_ms": 22.4
+   },
+   "R1+R2+R3+R4": {
+    "nodes": 15736,
+    "tours": 75,
+    "time_ms": 2.9
+   }
+  },
+  {
+   "n": 10,
+   "orig": {
+    "nodes": 9864100,
+    "tours": 3628800,
+    "time_ms": 2902.2
+   },
+   "R1_prefix_only": {
+    "nodes": 726037,
+    "tours": 1521,
+    "time_ms": 135.5
+   },
+   "R1+R2+R3": {
+    "nodes": 594259,
+    "tours": 551,
+    "time_ms": 111.8
+   },
+   "R1+R2+R3+R4": {
+    "nodes": 51054,
+    "tours": 126,
+    "time_ms": 10.7
+   }
+  }
+ ],
+ "scaling": [
+  {
+   "n": 10,
+   "nodes_mean": 63135,
+   "nodes_max": 135954,
+   "time_s_mean": 0.014,
+   "time_s_max": 0.03,
+   "orig_nodes": 9864100
+  },
+  {
+   "n": 11,
+   "nodes_mean": 224648,
+   "nodes_max": 598353,
+   "time_s_mean": 0.046,
+   "time_s_max": 0.122,
+   "orig_nodes": 108505111
+  },
+  {
+   "n": 12,
+   "nodes_mean": 760267,
+   "nodes_max": 1707909,
+   "time_s_mean": 0.142,
+   "time_s_max": 0.352,
+   "orig_nodes": 1302061344
+  },
+  {
+   "n": 13,
+   "nodes_mean": 1291605,
+   "nodes_max": 2968702,
+   "time_s_mean": 0.217,
+   "time_s_max": 0.557,
+   "orig_nodes": 16926797485
+  },
+  {
+   "n": 14,
+   "nodes_mean": 2189285,
+   "nodes_max": 5595038,
+   "time_s_mean": 0.433,
+   "time_s_max": 1.244,
+   "orig_nodes": 236975164804
+  },
+  {
+   "n": 15,
+   "nodes_mean": 9037857,
+   "nodes_max": 34127908,
+   "time_s_mean": 1.613,
+   "time_s_max": 6.287,
+   "orig_nodes": 3554627472075
+  },
+  {
+   "n": 16,
+   "nodes_mean": 29250199,
+   "nodes_max": 116152153,
+   "time_s_mean": 5.315,
+   "time_s_max": 21.153,
+   "orig_nodes": 56874039553216
+  }
+ ]
+}

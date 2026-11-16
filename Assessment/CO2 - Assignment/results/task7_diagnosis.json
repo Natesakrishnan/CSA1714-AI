@@ -1,0 +1,46 @@
+[
+ {
+  "n": 7,
+  "instances": 10,
+  "nodes": 13699,
+  "last_two_levels_share": 73.6,
+  "wasted_share_mean": 76.9,
+  "wasted_share_min": 62.6,
+  "first_opt_fraction_mean": 28.3,
+  "first_opt_fraction_max": 53.4,
+  "tours_after_opt_found_pct": 71.7
+ },
+ {
+  "n": 8,
+  "instances": 10,
+  "nodes": 109600,
+  "last_two_levels_share": 73.6,
+  "wasted_share_mean": 87.5,
+  "wasted_share_min": 76.3,
+  "first_opt_fraction_mean": 23.5,
+  "first_opt_fraction_max": 44.0,
+  "tours_after_opt_found_pct": 76.5
+ },
+ {
+  "n": 9,
+  "instances": 5,
+  "nodes": 986409,
+  "last_two_levels_share": 73.6,
+  "wasted_share_mean": 95.4,
+  "wasted_share_min": 93.0,
+  "first_opt_fraction_mean": 18.2,
+  "first_opt_fraction_max": 36.1,
+  "tours_after_opt_found_pct": 81.8
+ },
+ {
+  "n": 10,
+  "instances": 1,
+  "nodes": 9864100,
+  "last_two_levels_share": 73.6,
+  "wasted_share_mean": 98.1,
+  "wasted_share_min": 98.1,
+  "first_opt_fraction_mean": 32.2,
+  "first_opt_fraction_max": 32.2,
+  "tours_after_opt_found_pct": 67.8
+ }
+]

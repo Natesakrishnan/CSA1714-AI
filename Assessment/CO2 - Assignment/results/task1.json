@@ -1,0 +1,653 @@
+{
+ "open": [
+  {
+   "n": 20,
+   "seed": 0,
+   "ucs": {
+    "found": true,
+    "expanded": 368,
+    "generated": 369,
+    "max_frontier": 26,
+    "cost": 38,
+    "time_ms": 0.81,
+    "optimal": true
+   },
+   "greedy": {
+    "found": true,
+    "expanded": 39,
+    "generated": 82,
+    "max_frontier": 44,
+    "cost": 53,
+    "time_ms": 0.13,
+    "optimal": false
+   },
+   "astar": {
+    "found": true,
+    "expanded": 39,
+    "generated": 80,
+    "max_frontier": 42,
+    "cost": 38,
+    "time_ms": 0.12,
+    "optimal": true
+   }
+  },
+  {
+   "n": 20,
+   "seed": 1,
+   "ucs": {
+    "found": true,
+    "expanded": 359,
+    "generated": 361,
+    "max_frontier": 30,
+    "cost": 38,
+    "time_ms": 1.19,
+    "optimal": true
+   },
+   "greedy": {
+    "found": true,
+    "expanded": 41,
+    "generated": 81,
+    "max_frontier": 41,
+    "cost": 40,
+    "time_ms": 0.19,
+    "optimal": false
+   },
+   "astar": {
+    "found": true,
+    "expanded": 42,
+    "generated": 82,
+    "max_frontier": 40,
+    "cost": 38,
+    "time_ms": 0.24,
+    "optimal": true
+   }
+  },
+  {
+   "n": 20,
+   "seed": 3,
+   "ucs": {
+    "found": true,
+    "expanded": 366,
+    "generated": 367,
+    "max_frontier": 29,
+    "cost": 38,
+    "time_ms": 0.92,
+    "optimal": true
+   },
+   "greedy": {
+    "found": true,
+    "expanded": 39,
+    "generated": 72,
+    "max_frontier": 34,
+    "cost": 50,
+    "time_ms": 0.13,
+    "optimal": false
+   },
+   "astar": {
+    "found": true,
+    "expanded": 40,
+    "generated": 77,
+    "max_frontier": 38,
+    "cost": 38,
+    "time_ms": 0.11,
+    "optimal": true
+   }
+  },
+  {
+   "n": 20,
+   "seed": 4,
+   "ucs": {
+    "found": true,
+    "expanded": 365,
+    "generated": 366,
+    "max_frontier": 31,
+    "cost": 38,
+    "time_ms": 0.83,
+    "optimal": true
+   },
+   "greedy": {
+    "found": true,
+    "expanded": 42,
+    "generated": 86,
+    "max_frontier": 45,
+    "cost": 52,
+    "time_ms": 0.13,
+    "optimal": false
+   },
+   "astar": {
+    "found": true,
+    "expanded": 42,
+    "generated": 82,
+    "max_frontier": 41,
+    "cost": 38,
+    "time_ms": 0.13,
+    "optimal": true
+   }
+  },
+  {
+   "n": 20,
+   "seed": 5,
+   "ucs": {
+    "found": true,
+    "expanded": 365,
+    "generated": 366,
+    "max_frontier": 27,
+    "cost": 41,
+    "time_ms": 0.77,
+    "optimal": true
+   },
+   "greedy": {
+    "found": true,
+    "expanded": 41,
+    "generated": 78,
+    "max_frontier": 38,
+    "cost": 58,
+    "time_ms": 0.12,
+    "optimal": false
+   },
+   "astar": {
+    "found": true,
+    "expanded": 270,
+    "generated": 427,
+    "max_frontier": 68,
+    "cost": 41,
+    "time_ms": 0.85,
+    "optimal": true
+   }
+  },
+  {
+   "n": 30,
+   "seed": 0,
+   "ucs": {
+    "found": true,
+    "expanded": 814,
+    "generated": 814,
+    "max_frontier": 39,
+    "cost": 58,
+    "time_ms": 6.62,
+    "optimal": true
+   },
+   "greedy": {
+    "found": true,
+    "expanded": 67,
+    "generated": 129,
+    "max_frontier": 63,
+    "cost": 89,
+    "time_ms": 0.38,
+    "optimal": false
+   },
+   "astar": {
+    "found": true,
+    "expanded": 94,
+    "generated": 178,
+    "max_frontier": 72,
+    "cost": 58,
+    "time_ms": 0.5,
+    "optimal": true
+   }
+  },
+  {
+   "n": 30,
+   "seed": 1,
+   "ucs": {
+    "found": true,
+    "expanded": 825,
+    "generated": 825,
+    "max_frontier": 45,
+    "cost": 58,
+    "time_ms": 4.41,
+    "optimal": true
+   },
+   "greedy": {
+    "found": true,
+    "expanded": 59,
+    "generated": 128,
+    "max_frontier": 70,
+    "cost": 85,
+    "time_ms": 0.33,
+    "optimal": false
+   },
+   "astar": {
+    "found": true,
+    "expanded": 73,
+    "generated": 158,
+    "max_frontier": 75,
+    "cost": 58,
+    "time_ms": 0.61,
+    "optimal": true
+   }
+  },
+  {
+   "n": 30,
+   "seed": 2,
+   "ucs": {
+    "found": true,
+    "expanded": 836,
+    "generated": 836,
+    "max_frontier": 38,
+    "cost": 58,
+    "time_ms": 2.83,
+    "optimal": true
+   },
+   "greedy": {
+    "found": true,
+    "expanded": 64,
+    "generated": 137,
+    "max_frontier": 74,
+    "cost": 89,
+    "time_ms": 0.25,
+    "optimal": false
+   },
+   "astar": {
+    "found": true,
+    "expanded": 83,
+    "generated": 174,
+    "max_frontier": 86,
+    "cost": 58,
+    "time_ms": 0.27,
+    "optimal": true
+   }
+  },
+  {
+   "n": 30,
+   "seed": 3,
+   "ucs": {
+    "found": true,
+    "expanded": 827,
+    "generated": 827,
+    "max_frontier": 45,
+    "cost": 58,
+    "time_ms": 1.86,
+    "optimal": true
+   },
+   "greedy": {
+    "found": true,
+    "expanded": 64,
+    "generated": 133,
+    "max_frontier": 70,
+    "cost": 80,
+    "time_ms": 0.35,
+    "optimal": false
+   },
+   "astar": {
+    "found": true,
+    "expanded": 122,
+    "generated": 224,
+    "max_frontier": 73,
+    "cost": 58,
+    "time_ms": 0.64,
+    "optimal": true
+   }
+  },
+  {
+   "n": 30,
+   "seed": 4,
+   "ucs": {
+    "found": true,
+    "expanded": 823,
+    "generated": 823,
+    "max_frontier": 44,
+    "cost": 58,
+    "time_ms": 2.59,
+    "optimal": true
+   },
+   "greedy": {
+    "found": true,
+    "expanded": 61,
+    "generated": 121,
+    "max_frontier": 61,
+    "cost": 69,
+    "time_ms": 0.31,
+    "optimal": false
+   },
+   "astar": {
+    "found": true,
+    "expanded": 82,
+    "generated": 158,
+    "max_frontier": 69,
+    "cost": 58,
+    "time_ms": 0.34,
+    "optimal": true
+   }
+  },
+  {
+   "n": 40,
+   "seed": 0,
+   "ucs": {
+    "found": true,
+    "expanded": 1449,
+    "generated": 1449,
+    "max_frontier": 49,
+    "cost": 78,
+    "time_ms": 3.49,
+    "optimal": true
+   },
+   "greedy": {
+    "found": true,
+    "expanded": 82,
+    "generated": 182,
+    "max_frontier": 101,
+    "cost": 119,
+    "time_ms": 0.55,
+    "optimal": false
+   },
+   "astar": {
+    "found": true,
+    "expanded": 224,
+    "generated": 417,
+    "max_frontier": 129,
+    "cost": 78,
+    "time_ms": 0.84,
+    "optimal": true
+   }
+  },
+  {
+   "n": 40,
+   "seed": 1,
+   "ucs": {
+    "found": true,
+    "expanded": 1473,
+    "generated": 1473,
+    "max_frontier": 57,
+    "cost": 78,
+    "time_ms": 5.0,
+    "optimal": true
+   },
+   "greedy": {
+    "found": true,
+    "expanded": 83,
+    "generated": 171,
+    "max_frontier": 89,
+    "cost": 92,
+    "time_ms": 0.76,
+    "optimal": false
+   },
+   "astar": {
+    "found": true,
+    "expanded": 139,
+    "generated": 273,
+    "max_frontier": 102,
+    "cost": 78,
+    "time_ms": 0.97,
+    "optimal": true
+   }
+  },
+  {
+   "n": 40,
+   "seed": 2,
+   "ucs": {
+    "found": true,
+    "expanded": 1484,
+    "generated": 1484,
+    "max_frontier": 56,
+    "cost": 78,
+    "time_ms": 4.34,
+    "optimal": true
+   },
+   "greedy": {
+    "found": true,
+    "expanded": 83,
+    "generated": 171,
+    "max_frontier": 89,
+    "cost": 109,
+    "time_ms": 0.28,
+    "optimal": false
+   },
+   "astar": {
+    "found": true,
+    "expanded": 219,
+    "generated": 410,
+    "max_frontier": 123,
+    "cost": 78,
+    "time_ms": 0.92,
+    "optimal": true
+   }
+  },
+  {
+   "n": 40,
+   "seed": 3,
+   "ucs": {
+    "found": true,
+    "expanded": 1480,
+    "generated": 1480,
+    "max_frontier": 55,
+    "cost": 78,
+    "time_ms": 3.26,
+    "optimal": true
+   },
+   "greedy": {
+    "found": true,
+    "expanded": 81,
+    "generated": 172,
+    "max_frontier": 92,
+    "cost": 113,
+    "time_ms": 0.28,
+    "optimal": false
+   },
+   "astar": {
+    "found": true,
+    "expanded": 193,
+    "generated": 366,
+    "max_frontier": 123,
+    "cost": 78,
+    "time_ms": 0.59,
+    "optimal": true
+   }
+  },
+  {
+   "n": 40,
+   "seed": 4,
+   "ucs": {
+    "found": true,
+    "expanded": 1483,
+    "generated": 1483,
+    "max_frontier": 60,
+    "cost": 78,
+    "time_ms": 3.87,
+    "optimal": true
+   },
+   "greedy": {
+    "found": true,
+    "expanded": 82,
+    "generated": 183,
+    "max_frontier": 102,
+    "cost": 92,
+    "time_ms": 0.31,
+    "optimal": false
+   },
+   "astar": {
+    "found": true,
+    "expanded": 204,
+    "generated": 404,
+    "max_frontier": 106,
+    "cost": 78,
+    "time_ms": 0.75,
+    "optimal": true
+   }
+  }
+ ],
+ "trap": [
+  {
+   "n": 20,
+   "ucs": {
+    "found": true,
+    "expanded": 370,
+    "generated": 375,
+    "max_frontier": 25,
+    "cost": 27,
+    "time_ms": 1.07,
+    "optimal": true
+   },
+   "greedy": {
+    "found": true,
+    "expanded": 109,
+    "generated": 141,
+    "max_frontier": 33,
+    "cost": 27,
+    "time_ms": 0.27,
+    "optimal": true
+   },
+   "astar": {
+    "found": true,
+    "expanded": 144,
+    "generated": 177,
+    "max_frontier": 34,
+    "cost": 27,
+    "time_ms": 0.35,
+    "optimal": true
+   }
+  },
+  {
+   "n": 30,
+   "ucs": {
+    "found": true,
+    "expanded": 851,
+    "generated": 859,
+    "max_frontier": 35,
+    "cost": 41,
+    "time_ms": 1.84,
+    "optimal": true
+   },
+   "greedy": {
+    "found": true,
+    "expanded": 217,
+    "generated": 266,
+    "max_frontier": 50,
+    "cost": 41,
+    "time_ms": 0.5,
+    "optimal": true
+   },
+   "astar": {
+    "found": true,
+    "expanded": 311,
+    "generated": 363,
+    "max_frontier": 53,
+    "cost": 41,
+    "time_ms": 0.74,
+    "optimal": true
+   }
+  },
+  {
+   "n": 40,
+   "ucs": {
+    "found": true,
+    "expanded": 1550,
+    "generated": 1555,
+    "max_frontier": 45,
+    "cost": 57,
+    "time_ms": 5.54,
+    "optimal": true
+   },
+   "greedy": {
+    "found": true,
+    "expanded": 368,
+    "generated": 438,
+    "max_frontier": 71,
+    "cost": 57,
+    "time_ms": 1.35,
+    "optimal": true
+   },
+   "astar": {
+    "found": true,
+    "expanded": 554,
+    "generated": 627,
+    "max_frontier": 74,
+    "cost": 57,
+    "time_ms": 1.5,
+    "optimal": true
+   }
+  }
+ ],
+ "unreach": [
+  {
+   "n": 20,
+   "ucs": {
+    "found": false,
+    "expanded": 378,
+    "generated": 378,
+    "max_frontier": 21,
+    "cost": null,
+    "time_ms": 0.78,
+    "optimal": null
+   },
+   "greedy": {
+    "found": false,
+    "expanded": 378,
+    "generated": 378,
+    "max_frontier": 45,
+    "cost": null,
+    "time_ms": 0.81,
+    "optimal": null
+   },
+   "astar": {
+    "found": false,
+    "expanded": 378,
+    "generated": 638,
+    "max_frontier": 43,
+    "cost": null,
+    "time_ms": 1.33,
+    "optimal": null
+   }
+  },
+  {
+   "n": 30,
+   "ucs": {
+    "found": false,
+    "expanded": 845,
+    "generated": 845,
+    "max_frontier": 31,
+    "cost": null,
+    "time_ms": 2.09,
+    "optimal": null
+   },
+   "greedy": {
+    "found": false,
+    "expanded": 845,
+    "generated": 845,
+    "max_frontier": 73,
+    "cost": null,
+    "time_ms": 2.32,
+    "optimal": null
+   },
+   "astar": {
+    "found": false,
+    "expanded": 845,
+    "generated": 1443,
+    "max_frontier": 69,
+    "cost": null,
+    "time_ms": 3.8,
+    "optimal": null
+   }
+  },
+  {
+   "n": 40,
+   "ucs": {
+    "found": false,
+    "expanded": 1502,
+    "generated": 1502,
+    "max_frontier": 42,
+    "cost": null,
+    "time_ms": 5.39,
+    "optimal": null
+   },
+   "greedy": {
+    "found": false,
+    "expanded": 1502,
+    "generated": 1502,
+    "max_frontier": 97,
+    "cost": null,
+    "time_ms": 4.13,
+    "optimal": null
+   },
+   "astar": {
+    "found": false,
+    "expanded": 1502,
+    "generated": 2598,
+    "max_frontier": 93,
+    "cost": null,
+    "time_ms": 8.44,
+    "optimal": null
+   }
+  }
+ ]
+}

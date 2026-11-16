@@ -1,0 +1,6 @@
+{'n': 10, 'kind': 'uniform random', 'nodes_mean': 87265, 'nodes_max': 140182, 'time_s_mean': 0.036, 'orig_nodes': 9864100}
+{'n': 10, 'kind': 'paired customers', 'nodes_mean': 534061, 'nodes_max': 810456, 'time_s_mean': 0.126, 'orig_nodes': 9864100}
+{'n': 12, 'kind': 'uniform random', 'nodes_mean': 556481, 'nodes_max': 1019779, 'time_s_mean': 0.111, 'orig_nodes': 1302061344}
+{'n': 12, 'kind': 'paired customers', 'nodes_mean': 12559559, 'nodes_max': 31806820, 'time_s_mean': 2.465, 'orig_nodes': 1302061344}
+{'n': 14, 'kind': 'uniform random', 'nodes_mean': 3721896, 'nodes_max': 6167722, 'time_s_mean': 0.714, 'orig_nodes': 236975164804}
+{'n': 14, 'kind': 'paired customers', 'nodes_mean': 123997334, 'nodes_max': 281513970, 'time_s_mean': 22.44, 'orig_nodes': 236975164804}

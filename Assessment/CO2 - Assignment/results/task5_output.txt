@@ -1,0 +1,235 @@
+{'n': 10, 'plain_BT': {'nodes': 746.0, 'tries': 3730.0, 'backtracks': 3730.0, 'checks': 10465.0, 'wipeouts': 0.0, 'capped': 0, 'unsat': 12, 'solved': 8}, 'MAC': {'nodes': 86.0, 'tries': 205.0, 'backtracks': 205.0, 'checks': 17089.5, 'wipeouts': 120.0, 'capped': 0, 'unsat': 12, 'solved': 8}}
+{'n': 20, 'plain_BT': {'nodes': 40.5, 'tries': 153.0, 'backtracks': 133.0, 'checks': 465.0, 'wipeouts': 0.0, 'capped': 1, 'unsat': 0, 'solved': 19}, 'MAC': {'nodes': 21.0, 'tries': 20.0, 'backtracks': 0.0, 'checks': 2216.5, 'wipeouts': 0.0, 'capped': 0, 'unsat': 1, 'solved': 19}}
+{'n': 30, 'plain_BT': {'nodes': 76.0, 'tries': 306.0, 'backtracks': 276.0, 'checks': 1004.5, 'wipeouts': 0.0, 'capped': 5, 'unsat': 0, 'solved': 15}, 'MAC': {'nodes': 31.0, 'tries': 30.0, 'backtracks': 0.0, 'checks': 3357.5, 'wipeouts': 0.0, 'capped': 0, 'unsat': 0, 'solved': 20}}
+{'n': 40, 'plain_BT': {'nodes': 987.5, 'tries': 4833.0, 'backtracks': 4793.0, 'checks': 19379.0, 'wipeouts': 0.0, 'capped': 4, 'unsat': 0, 'solved': 16}, 'MAC': {'nodes': 41.0, 'tries': 40.0, 'backtracks': 0.0, 'checks': 4638.5, 'wipeouts': 0.0, 'capped': 0, 'unsat': 0, 'solved': 20}}
+{'n': 50, 'plain_BT': {'nodes': 2059.0, 'tries': 10173.0, 'backtracks': 10123.0, 'checks': 40276.0, 'wipeouts': 0.0, 'capped': 6, 'unsat': 0, 'solved': 14}, 'MAC': {'nodes': 51.0, 'tries': 50.0, 'backtracks': 0.0, 'checks': 5639.5, 'wipeouts': 0.0, 'capped': 0, 'unsat': 0, 'solved': 20}}
+{'n': 4, 'plain_BT': {'status': 'unsat', 'checks': 75, 'nodes': 16, 'tries': 48, 'backtracks': 48, 'wipeouts': 0, 'revisions': 0, 'removals': 0}, 'MAC': {'status': 'unsat', 'checks': 171, 'nodes': 4, 'tries': 9, 'backtracks': 9, 'wipeouts': 6, 'revisions': 69, 'removals': 27}}
+{'n': 5, 'plain_BT': {'status': 'unsat', 'checks': 556, 'nodes': 65, 'tries': 260, 'backtracks': 260, 'wipeouts': 0, 'revisions': 0, 'removals': 0}, 'MAC': {'status': 'unsat', 'checks': 944, 'nodes': 17, 'tries': 40, 'backtracks': 40, 'wipeouts': 24, 'revisions': 408, 'removals': 124}}
+{'n': 6, 'plain_BT': {'status': 'unsat', 'checks': 4405, 'nodes': 326, 'tries': 1630, 'backtracks': 1630, 'wipeouts': 0, 'revisions': 0, 'removals': 0}, 'MAC': {'status': 'unsat', 'checks': 5605, 'nodes': 86, 'tries': 205, 'backtracks': 205, 'wipeouts': 120, 'revisions': 2675, 'removals': 645}}
+{'n': 7, 'plain_BT': {'status': 'unsat', 'checks': 38166, 'nodes': 1957, 'tries': 11742, 'backtracks': 11742, 'wipeouts': 0, 'revisions': 0, 'removals': 0}, 'MAC': {'status': 'unsat', 'checks': 37800, 'nodes': 517, 'tries': 1236, 'backtracks': 1236, 'wipeouts': 720, 'revisions': 19788, 'removals': 3906}}
+{'n': 8, 'plain_BT': {'status': 'unsat', 'checks': 363055, 'nodes': 13700, 'tries': 95900, 'backtracks': 95900, 'wipeouts': 0, 'revisions': 0, 'removals': 0}, 'MAC': {'status': 'unsat', 'checks': 291305, 'nodes': 3620, 'tries': 8659, 'backtracks': 8659, 'wipeouts': 5040, 'revisions': 164535, 'removals': 27391}}
+{'n': 9, 'plain_BT': {'status': 'unsat', 'checks': 3781240, 'nodes': 109601, 'tries': 876808, 'backtracks': 876808, 'wipeouts': 0, 'revisions': 0, 'removals': 0}, 'MAC': {'status': 'unsat', 'checks': 2539360, 'nodes': 28961, 'tries': 69280, 'backtracks': 69280, 'wipeouts': 40320, 'revisions': 1524176, 'removals': 219192}}
+{
+ "A_chain_solved_by_AC3": {
+  "consistent": true,
+  "domains": {
+   "E1": [
+    1
+   ],
+   "E2": [
+    2
+   ],
+   "E3": [
+    1
+   ],
+   "E4": [
+    2
+   ],
+   "E5": [
+    1
+   ],
+   "E6": [
+    2
+   ],
+   "E7": [
+    1
+   ],
+   "E8": [
+    2
+   ],
+   "E9": [
+    1
+   ],
+   "E10": [
+    2
+   ]
+  },
+  "counters": {
+   "checks": 33,
+   "nodes": 0,
+   "tries": 0,
+   "backtracks": 0,
+   "wipeouts": 0,
+   "revisions": 18,
+   "removals": 9
+  },
+  "all_singletons": true,
+  "valid": true
+ },
+ "A2_chain_failure_detected": {
+  "consistent": false,
+  "counters": {
+   "checks": 29,
+   "nodes": 0,
+   "tries": 0,
+   "backtracks": 0,
+   "wipeouts": 1,
+   "revisions": 17,
+   "removals": 9
+  }
+ },
+ "B_K6_5slots": {
+  "ac3_alone_consistent": true,
+  "ac3_removals": 0,
+  "plain_BT": {
+   "status": "unsat",
+   "checks": 4405,
+   "nodes": 326,
+   "tries": 1630,
+   "backtracks": 1630,
+   "wipeouts": 0,
+   "revisions": 0,
+   "removals": 0
+  },
+  "MAC": {
+   "status": "unsat",
+   "checks": 5605,
+   "nodes": 86,
+   "tries": 205,
+   "backtracks": 205,
+   "wipeouts": 120,
+   "revisions": 2675,
+   "removals": 645
+  }
+ },
+ "clique_growth": [
+  {
+   "n": 4,
+   "plain_BT": {
+    "status": "unsat",
+    "checks": 75,
+    "nodes": 16,
+    "tries": 48,
+    "backtracks": 48,
+    "wipeouts": 0,
+    "revisions": 0,
+    "removals": 0
+   },
+   "MAC": {
+    "status": "unsat",
+    "checks": 171,
+    "nodes": 4,
+    "tries": 9,
+    "backtracks": 9,
+    "wipeouts": 6,
+    "revisions": 69,
+    "removals": 27
+   }
+  },
+  {
+   "n": 5,
+   "plain_BT": {
+    "status": "unsat",
+    "checks": 556,
+    "nodes": 65,
+    "tries": 260,
+    "backtracks": 260,
+    "wipeouts": 0,
+    "revisions": 0,
+    "removals": 0
+   },
+   "MAC": {
+    "status": "unsat",
+    "checks": 944,
+    "nodes": 17,
+    "tries": 40,
+    "backtracks": 40,
+    "wipeouts": 24,
+    "revisions": 408,
+    "removals": 124
+   }
+  },
+  {
+   "n": 6,
+   "plain_BT": {
+    "status": "unsat",
+    "checks": 4405,
+    "nodes": 326,
+    "tries": 1630,
+    "backtracks": 1630,
+    "wipeouts": 0,
+    "revisions": 0,
+    "removals": 0
+   },
+   "MAC": {
+    "status": "unsat",
+    "checks": 5605,
+    "nodes": 86,
+    "tries": 205,
+    "backtracks": 205,
+    "wipeouts": 120,
+    "revisions": 2675,
+    "removals": 645
+   }
+  },
+  {
+   "n": 7,
+   "plain_BT": {
+    "status": "unsat",
+    "checks": 38166,
+    "nodes": 1957,
+    "tries": 11742,
+    "backtracks": 11742,
+    "wipeouts": 0,
+    "revisions": 0,
+    "removals": 0
+   },
+   "MAC": {
+    "status": "unsat",
+    "checks": 37800,
+    "nodes": 517,
+    "tries": 1236,
+    "backtracks": 1236,
+    "wipeouts": 720,
+    "revisions": 19788,
+    "removals": 3906
+   }
+  },
+  {
+   "n": 8,
+   "plain_BT": {
+    "status": "unsat",
+    "checks": 363055,
+    "nodes": 13700,
+    "tries": 95900,
+    "backtracks": 95900,
+    "wipeouts": 0,
+    "revisions": 0,
+    "removals": 0
+   },
+   "MAC": {
+    "status": "unsat",
+    "checks": 291305,
+    "nodes": 3620,
+    "tries": 8659,
+    "backtracks": 8659,
+    "wipeouts": 5040,
+    "revisions": 164535,
+    "removals": 27391
+   }
+  },
+  {
+   "n": 9,
+   "plain_BT": {
+    "status": "unsat",
+    "checks": 3781240,
+    "nodes": 109601,
+    "tries": 876808,
+    "backtracks": 876808,
+    "wipeouts": 0,
+    "revisions": 0,
+    "removals": 0
+   },
+   "MAC": {
+    "status": "unsat",
+    "checks": 2539360,
+    "nodes": 28961,
+    "tries": 69280,
+    "backtracks": 69280,
+    "wipeouts": 40320,
+    "revisions": 1524176,
+    "removals": 219192
+   }
+  }
+ ]
+}

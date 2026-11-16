@@ -1,0 +1,24 @@
+== open
+n=20 seed=0 {'ucs': (368, 369, 26, 38, True), 'greedy': (39, 82, 44, 53, False), 'astar': (39, 80, 42, 38, True)}
+n=20 seed=1 {'ucs': (359, 361, 30, 38, True), 'greedy': (41, 81, 41, 40, False), 'astar': (42, 82, 40, 38, True)}
+n=20 seed=3 {'ucs': (366, 367, 29, 38, True), 'greedy': (39, 72, 34, 50, False), 'astar': (40, 77, 38, 38, True)}
+n=20 seed=4 {'ucs': (365, 366, 31, 38, True), 'greedy': (42, 86, 45, 52, False), 'astar': (42, 82, 41, 38, True)}
+n=20 seed=5 {'ucs': (365, 366, 27, 41, True), 'greedy': (41, 78, 38, 58, False), 'astar': (270, 427, 68, 41, True)}
+n=30 seed=0 {'ucs': (814, 814, 39, 58, True), 'greedy': (67, 129, 63, 89, False), 'astar': (94, 178, 72, 58, True)}
+n=30 seed=1 {'ucs': (825, 825, 45, 58, True), 'greedy': (59, 128, 70, 85, False), 'astar': (73, 158, 75, 58, True)}
+n=30 seed=2 {'ucs': (836, 836, 38, 58, True), 'greedy': (64, 137, 74, 89, False), 'astar': (83, 174, 86, 58, True)}
+n=30 seed=3 {'ucs': (827, 827, 45, 58, True), 'greedy': (64, 133, 70, 80, False), 'astar': (122, 224, 73, 58, True)}
+n=30 seed=4 {'ucs': (823, 823, 44, 58, True), 'greedy': (61, 121, 61, 69, False), 'astar': (82, 158, 69, 58, True)}
+n=40 seed=0 {'ucs': (1449, 1449, 49, 78, True), 'greedy': (82, 182, 101, 119, False), 'astar': (224, 417, 129, 78, True)}
+n=40 seed=1 {'ucs': (1473, 1473, 57, 78, True), 'greedy': (83, 171, 89, 92, False), 'astar': (139, 273, 102, 78, True)}
+n=40 seed=2 {'ucs': (1484, 1484, 56, 78, True), 'greedy': (83, 171, 89, 109, False), 'astar': (219, 410, 123, 78, True)}
+n=40 seed=3 {'ucs': (1480, 1480, 55, 78, True), 'greedy': (81, 172, 92, 113, False), 'astar': (193, 366, 123, 78, True)}
+n=40 seed=4 {'ucs': (1483, 1483, 60, 78, True), 'greedy': (82, 183, 102, 92, False), 'astar': (204, 404, 106, 78, True)}
+== trap
+n=20 {'ucs': (370, 375, 25, 27, True), 'greedy': (109, 141, 33, 27, True), 'astar': (144, 177, 34, 27, True)}
+n=30 {'ucs': (851, 859, 35, 41, True), 'greedy': (217, 266, 50, 41, True), 'astar': (311, 363, 53, 41, True)}
+n=40 {'ucs': (1550, 1555, 45, 57, True), 'greedy': (368, 438, 71, 57, True), 'astar': (554, 627, 74, 57, True)}
+== unreach
+n=20 {'ucs': (378, 378, 21, None, None), 'greedy': (378, 378, 45, None, None), 'astar': (378, 638, 43, None, None)}
+n=30 {'ucs': (845, 845, 31, None, None), 'greedy': (845, 845, 73, None, None), 'astar': (845, 1443, 69, None, None)}
+n=40 {'ucs': (1502, 1502, 42, None, None), 'greedy': (1502, 1502, 97, None, None), 'astar': (1502, 2598, 93, None, None)}

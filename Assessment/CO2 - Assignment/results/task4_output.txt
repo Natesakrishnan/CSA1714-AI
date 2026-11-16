@@ -1,0 +1,31 @@
+{'R': 4, 'C': 4, 'K': 3, 'depth': 1, 'visited': 5, 'expanded': 1, 'evals': 4, 'terminal': 0, 'theory_visited': 5, 'theory_leaves': 4, 'time_s': 0.0, 'move': 2}
+{'R': 4, 'C': 4, 'K': 3, 'depth': 2, 'visited': 21, 'expanded': 5, 'evals': 16, 'terminal': 0, 'theory_visited': 21, 'theory_leaves': 16, 'time_s': 0.0, 'move': 3}
+{'R': 4, 'C': 4, 'K': 3, 'depth': 3, 'visited': 85, 'expanded': 21, 'evals': 64, 'terminal': 0, 'theory_visited': 85, 'theory_leaves': 64, 'time_s': 0.0, 'move': 2}
+{'R': 4, 'C': 4, 'K': 3, 'depth': 4, 'visited': 341, 'expanded': 85, 'evals': 256, 'terminal': 0, 'theory_visited': 341, 'theory_leaves': 256, 'time_s': 0.002, 'move': 0}
+{'R': 4, 'C': 4, 'K': 3, 'depth': 5, 'visited': 1361, 'expanded': 341, 'evals': 912, 'terminal': 108, 'theory_visited': 1365, 'theory_leaves': 1024, 'time_s': 0.007, 'move': 1}
+{'R': 4, 'C': 4, 'K': 3, 'depth': 6, 'visited': 4949, 'expanded': 1253, 'evals': 3404, 'terminal': 292, 'theory_visited': 5461, 'theory_leaves': 4096, 'time_s': 0.026, 'move': 1}
+{'R': 4, 'C': 4, 'K': 3, 'depth': 7, 'visited': 18097, 'expanded': 4657, 'evals': 10856, 'terminal': 2584, 'theory_visited': 21845, 'theory_leaves': 16384, 'time_s': 0.091, 'move': 2}
+{'R': 5, 'C': 5, 'K': 4, 'depth': 1, 'visited': 6, 'expanded': 1, 'evals': 5, 'terminal': 0, 'theory_visited': 6, 'theory_leaves': 5, 'time_s': 0.0, 'move': 1}
+{'R': 5, 'C': 5, 'K': 4, 'depth': 2, 'visited': 31, 'expanded': 6, 'evals': 25, 'terminal': 0, 'theory_visited': 31, 'theory_leaves': 25, 'time_s': 0.0, 'move': 0}
+{'R': 5, 'C': 5, 'K': 4, 'depth': 3, 'visited': 156, 'expanded': 31, 'evals': 125, 'terminal': 0, 'theory_visited': 156, 'theory_leaves': 125, 'time_s': 0.001, 'move': 2}
+{'R': 5, 'C': 5, 'K': 4, 'depth': 4, 'visited': 781, 'expanded': 156, 'evals': 625, 'terminal': 0, 'theory_visited': 781, 'theory_leaves': 625, 'time_s': 0.006, 'move': 1}
+{'R': 5, 'C': 5, 'K': 4, 'depth': 5, 'visited': 3906, 'expanded': 781, 'evals': 3125, 'terminal': 0, 'theory_visited': 3906, 'theory_leaves': 3125, 'time_s': 0.028, 'move': 1}
+{'R': 5, 'C': 5, 'K': 4, 'depth': 6, 'visited': 19526, 'expanded': 3906, 'evals': 15620, 'terminal': 0, 'theory_visited': 19531, 'theory_leaves': 15625, 'time_s': 0.149, 'move': 2}
+{'R': 6, 'C': 7, 'K': 4, 'depth': 1, 'visited': 8, 'expanded': 1, 'evals': 7, 'terminal': 0, 'theory_visited': 8, 'theory_leaves': 7, 'time_s': 0.0, 'move': 3}
+{'R': 6, 'C': 7, 'K': 4, 'depth': 2, 'visited': 57, 'expanded': 8, 'evals': 49, 'terminal': 0, 'theory_visited': 57, 'theory_leaves': 49, 'time_s': 0.001, 'move': 2}
+{'R': 6, 'C': 7, 'K': 4, 'depth': 3, 'visited': 400, 'expanded': 57, 'evals': 343, 'terminal': 0, 'theory_visited': 400, 'theory_leaves': 343, 'time_s': 0.005, 'move': 3}
+{'R': 6, 'C': 7, 'K': 4, 'depth': 4, 'visited': 2801, 'expanded': 400, 'evals': 2401, 'terminal': 0, 'theory_visited': 2801, 'theory_leaves': 2401, 'time_s': 0.039, 'move': 3}
+{'R': 6, 'C': 7, 'K': 4, 'depth': 5, 'visited': 19608, 'expanded': 2801, 'evals': 16807, 'terminal': 0, 'theory_visited': 19608, 'theory_leaves': 16807, 'time_s': 0.313, 'move': 3}
+{'R': 6, 'C': 7, 'K': 4, 'depth': 6, 'visited': 137257, 'expanded': 19608, 'evals': 117649, 'terminal': 0, 'theory_visited': 137257, 'theory_leaves': 117649, 'time_s': 1.919, 'move': 3}
+{'R': 4, 'C': 4, 'K': 3, 'depth': 1, 'wins': 17, 'draws': 0, 'losses': 3, 'time_s': 0.0}
+{'R': 4, 'C': 4, 'K': 3, 'depth': 2, 'wins': 19, 'draws': 0, 'losses': 1, 'time_s': 0.0}
+{'R': 4, 'C': 4, 'K': 3, 'depth': 3, 'wins': 19, 'draws': 0, 'losses': 1, 'time_s': 0.0}
+{'R': 4, 'C': 4, 'K': 3, 'depth': 4, 'wins': 18, 'draws': 0, 'losses': 2, 'time_s': 0.1}
+{'R': 5, 'C': 5, 'K': 4, 'depth': 1, 'wins': 19, 'draws': 0, 'losses': 1, 'time_s': 0.0}
+{'R': 5, 'C': 5, 'K': 4, 'depth': 2, 'wins': 18, 'draws': 1, 'losses': 1, 'time_s': 0.0}
+{'R': 5, 'C': 5, 'K': 4, 'depth': 3, 'wins': 19, 'draws': 1, 'losses': 0, 'time_s': 0.1}
+{'R': 5, 'C': 5, 'K': 4, 'depth': 4, 'wins': 20, 'draws': 0, 'losses': 0, 'time_s': 0.6}
+{'R': 6, 'C': 7, 'K': 4, 'depth': 1, 'wins': 20, 'draws': 0, 'losses': 0, 'time_s': 0.0}
+{'R': 6, 'C': 7, 'K': 4, 'depth': 2, 'wins': 20, 'draws': 0, 'losses': 0, 'time_s': 0.1}
+{'R': 6, 'C': 7, 'K': 4, 'depth': 3, 'wins': 20, 'draws': 0, 'losses': 0, 'time_s': 0.7}
+{'R': 6, 'C': 7, 'K': 4, 'depth': 4, 'wins': 20, 'draws': 0, 'losses': 0, 'time_s': 5.0}
